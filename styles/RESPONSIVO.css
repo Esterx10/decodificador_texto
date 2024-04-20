@@ -1,0 +1,62 @@
+@media screen and (max-width : 900px) {
+    main {
+        flex-direction: column;
+        margin-left: 40px;
+
+    }
+
+    .texto_principal {
+        width: 500px;
+        height: 305px;
+
+    }
+
+    .logoAlura {
+        padding-top: 3px;
+        margin-left: 2px;
+        width: auto;
+        height: auto;
+
+    }
+.botoes {
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.bt-descript {
+    margin-left: 1px;
+    margin-bottom: 4px;
+}
+
+.aviso {
+    margin: 2%;
+}
+
+.caixa_direita {
+    margin-left: 3px;
+    margin-top: 8px;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+.imagem {
+    height: 200px;
+    width: auto;
+}
+
+.texto_direito{
+    bottom: 5px;
+
+}
+
+.bt-copiar {
+    bottom: 5px;
+    text-align: center;
+    left: 19%;
+    width: 300px;
+}
+
+
+}

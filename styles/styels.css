@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Galindo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+:root {
+    --cor-text-principal:#436850;
+    --cor-text-secundaria:#000000;
+    --cor-text-descript:#514B4B;
+    --cor-fundo-principal:#FBFADA;
+    --cor-fundo-caixa:#ADBC9F;
+
+}
+:root {
+    --font-principal: "Galindo", sans-serif;
+    --font-secundaria: "Poppins", sans-serif;
+}
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    height: 100vh;
+    background-color: var(--cor-fundo-principal);
+    
+}
+
+
+.logoAlura{
+    padding-top: 10px;
+    margin-left: 10px;
+    width: 3%;
+}
+
+main {
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 70px;
+    gap: 60px;
+}
+
+.texto_principal {
+    width: 700px;
+    height: 365px;
+    color:  var(--cor-text-principal);
+    font-family: var(--font-secundaria);
+    font-size: 30px;
+    font-weight: 900;
+    text-transform: lowercase;
+    border: none;
+    margin-top: 80px;
+    background-color: transparent;
+    position: relative;
+}
+.texto_principal::placeholder {
+    color: var(--cor-text-principal);
+}
+
+.texto_principal:focus {
+    outline: none;
+}
+
+.caixa_direita {
+    position: relative;
+    width: 340px;
+    height: 570px;
+    background-color: var(--cor-fundo-caixa);
+    color:  var(--cor-text-secundaria);
+    font-size: 24px;
+    font-family: var(--font-secundaria);
+    border-radius: 30px;
+    margin-right: 85px;
+    margin-left: 85px;
+    padding-left: 10px;
+    margin-top: 10px;
+
+}
+
+.imagem {
+    text-align: center;
+    width: 323px;
+    height: 340px;
+    bottom: 195px;
+
+}
+
+.texto_direito {
+    position: absolute;
+    bottom: 170px;
+    text-align: center;
+}
+
+
+.texto_direito h3 {
+    font-family: var(--font-principal);
+    font-size: 19px;
+    line-height: 28.8px;
+    text-align: center;
+}
+
+.texto_direito h5 {
+    font-family: var(--font-secundaria);
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 20.8px;
+    text-align: center;
+}
+
+.caixa_dirieta:focus{
+    outline: none;
+}
+
+.botoes {
+    display: flex;
+    margin-top: 18px;
+}
+
+
+.bt-cript {
+    border: none;
+    background-color: var(--cor-text-principal);
+    font-family: var(--font-principal);
+    border-radius: 26px;
+    height: 67px;
+    width: 300px;
+    cursor: pointer;
+}
+
+.bt-descript{
+    border: none;
+    background-color: var(--cor-fundo-caixa);
+    font-family: var(--font-principal);
+    border-radius: 26px;
+    margin-left: 30px;
+    height: 67px;
+    width: 300px;
+    cursor: pointer;
+}
+
+
+.bt-copiar{
+    border: none;
+    background-color: var(--cor-text-principal);
+    font-family: var(--font-principal);
+    border-radius: 26px;
+    cursor: pointer;
+    height: 67px;
+    width: 300px;
+    bottom: 20px;
+    left: 7.2%; 
+    position: absolute; 
+    padding: auto;
+}
+
+
+
+.aviso {
+    color: var(--cor-text-secundaria);
+    font-size: 17px;
+    margin: 2%;
+
+}
