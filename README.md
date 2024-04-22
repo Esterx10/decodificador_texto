@@ -26,11 +26,10 @@ Aplicação consiste um decodificador de texto: encripatar e desencriptar palavr
 <h1 align= "center"> 📂 Acesso ao projeto 
   
   ⬇️ 
+![Captura de tela 2024-04-21 173011](https://github.com/Esterx10/descodificador_texto/assets/93721810/cd2c7b5b-903b-4d4c-85a0-eacb21396bbd)
 
-  ![image](https://github.com/Esterx10/decodificador_alura/assets/93721810/d64d5888-9ab3-4bc9-a242-59834147418a)  
 </h1>
 
-https://decoficador-texto.vercel.app/
   
 <h1 align= "center">💻 Tecnologias ultilizadas: </h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
