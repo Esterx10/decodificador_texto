@@ -1,6 +1,5 @@
 const textoPrincipal = document.querySelector(".texto_principal");
 const caixaDireita = document.querySelector(".caixa_direita");
-document.querySelector(".bt-copiar").addEventListener("click", copiarResultado);
 
 
 
