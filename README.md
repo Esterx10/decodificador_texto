@@ -30,6 +30,8 @@ Aplicação consiste um decodificador de texto: encripatar e desencriptar palavr
 
 </h1>
 
+https://esterx10.github.io/decodificador_texto/
+
   
 <h1 align= "center">💻 Tecnologias ultilizadas: </h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
