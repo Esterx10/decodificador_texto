@@ -54,6 +54,7 @@ main {
     margin-top: 80px;
     background-color: transparent;
     position: relative;
+    resize: none;
 }
 .texto_principal::placeholder {
     color: var(--cor-text-principal);
@@ -76,6 +77,7 @@ main {
     margin-left: 85px;
     padding-left: 10px;
     margin-top: 10px;
+
 
 }
 
