@@ -36,4 +36,11 @@ https://esterx10.github.io/decodificador_texto/
 <h1 align= "center">💻 Tecnologias ultilizadas: </h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="40" height="40" />
+
+<h1>
+  Badge de conclusão
+</h1>
+
+![bagne](https://github.com/Esterx10/decodificador_texto/assets/93721810/14a26a0f-3b41-4ef3-a734-5b6b2334f2e1)
+
           
